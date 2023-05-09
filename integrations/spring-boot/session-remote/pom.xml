@@ -10,7 +10,7 @@
     <groupId>org.infinispan.tutorial.simple</groupId>
     <!--<artifactId>infinispan-simple-tutorials</artifactId>-->
     <version>1.0.0.CR1-redhat-00001</version>
-    <packaging>pom</packaging>
+    <packaging>jar</packaging>
     <artifactId>infinispan-spring-boot-sample-session-remote</artifactId>
     <name>Infinispan Simple Tutorials: Spring Boot Session Remote</name>
     <properties>
